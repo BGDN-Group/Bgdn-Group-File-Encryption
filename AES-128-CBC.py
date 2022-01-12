@@ -322,4 +322,5 @@ def MainFunction():
 GetPlatformName()
 MainFunction()
 
-# Created by Bogdan 
+# BGDN-Group
+# IMO +993 62632281
